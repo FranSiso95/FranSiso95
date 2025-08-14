@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Fran Sosa
 
-![Fran's GitHub Banner](https://github.com/tuusuario/tuimagenbanner.png)
-
+![Fran's GitHub Banner](banner-github-fransiso95.png)
 ¡Bienvenido a mi perfil! Soy un desarrollador apasionado por la programación, el diseño. Mi objetivo es crear soluciones innovadoras que combinen tecnología y creatividad.
 
 ---
@@ -24,10 +23,20 @@
 
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FranSiso95&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FranSiso95&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranSiso95&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FranSiso95&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+---
 
 ## 🎮 Fun Facts
 
-- **Anime Favorito**: "Solo Leveling" y "Attack on Titan".
+- **Anime Favorito**: "Solo Leveling" y "Hunter X Hunter".
 - **Juego Favorito**: "AFK Arena", "Valorant","Pokemon Arceus","Forza Horizon". 
 - **Mascotas**: Baloo, Piojo y Nanna, mis fieles compañeros caninos.
 
