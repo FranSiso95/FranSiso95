@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Fran Sosa
 
-<!--
-**FranSiso95/FranSiso95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Fran's GitHub Banner](https://github.com/tuusuario/tuimagenbanner.png)
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil! Soy un desarrollador apasionado por la programación, el diseño. Mi objetivo es crear soluciones innovadoras que combinen tecnología y creatividad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- **Estudios**: Actualmente cursando el bootcamp de **ConquerBlocksX**.
+- **Habilidades**: Python, HTML, CSS, Git/GitHub, diseño gráfico y 3D.
+- **Intereses**: Desarrollo de aplicaciones, diseño de interfaces, automatización y arte digital.
+- **Pasiones**: Anime, videojuegos y tecnología.
+
+---
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+</p>
+<br />
+
+
+---
+
+## 🎮 Fun Facts
+
+- **Anime Favorito**: "Solo Leveling" y "Attack on Titan".
+- **Juego Favorito**: "AFK Arena", "Valorant","Pokemon Arceus","Forza Horizon". 
+- **Mascotas**: Baloo, Piojo y Nanna, mis fieles compañeros caninos.
+
+---
+
+## 📫 Contacto
+- **Linkedin**: [linkedin.com/francososa](https://www.linkedin.com/in/franco-sosa-068752350/)
+- **Facebook**: [facebook.com/fransosa1995](https://www.facebook.com/FranSosa1995/)
+- **Instagram**: [instagram.com/fransosa95](https://www.instagram.com/fransosa95/)
+- **Correo**: [fransosa291113@gmail.com](mailto:fransosa291113@gmail.com)
+
+---
+
+¡Gracias por visitar mi perfil! Si te interesa colaborar en proyectos o simplemente compartir conocimientos, no dudes en contactarme. ¡Estoy siempre abierto a nuevas oportunidades y desafíos!
