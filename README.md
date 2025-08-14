@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Fran Sosa
 
-![Fran's GitHub Banner](banner-github-fransiso95.png)
+![Fran's GitHub Banner]![alt text](banner-github-fransiso95-1.png)
 ¡Bienvenido a mi perfil! Soy un desarrollador apasionado por la programación, el diseño. Mi objetivo es crear soluciones innovadoras que combinen tecnología y creatividad.
 
 ---
