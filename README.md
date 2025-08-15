@@ -11,6 +11,8 @@
 
 ## 🚀 Sobre mí
 
+<img aling="right "width="269" height="498" alt="GIF" src="https://github.com/user-attachments/assets/6f025a6d-418a-4026-8b13-9b2e5d0f10ed" />
+
 - **Estudios**: Actualmente cursando el bootcamp de **ConquerBlocksX**.
 - **Habilidades**: Python, HTML, CSS, Git/GitHub, diseño gráfico y 3D.
 - **Intereses**: Desarrollo de aplicaciones, diseño de interfaces, automatización y arte digital.
