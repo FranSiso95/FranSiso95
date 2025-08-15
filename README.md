@@ -1,3 +1,6 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 # 👋 ¡Hola! Soy Fran Sosa
 
 <img width="1280" height="400" alt="banner-github-fransiso95" src="https://github.com/user-attachments/assets/b14f09e3-bc21-43dd-a87c-ca0be42cd27d" />
