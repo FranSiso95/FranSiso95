@@ -6,6 +6,7 @@
 <img width="1280" height="400" alt="banner-github-fransiso95" src="https://github.com/user-attachments/assets/b14f09e3-bc21-43dd-a87c-ca0be42cd27d" />
 
 ¡Bienvenido a mi perfil! Soy un desarrollador apasionado por la programación, el diseño. Mi objetivo es crear soluciones innovadoras que combinen tecnología y creatividad.
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ---
 
