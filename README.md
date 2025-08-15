@@ -11,7 +11,8 @@
 
 ## 🚀 Sobre mí
 
-<img aling="right "width="269" height="498" alt="GIF" src="https://github.com/user-attachments/assets/6f025a6d-418a-4026-8b13-9b2e5d0f10ed" />
+![c99c98936a66370a09589509ca274001](https://github.com/user-attachments/assets/254c2dc8-1829-4e92-baeb-fb70f94ce0b6)
+
 
 - **Estudios**: Actualmente cursando el bootcamp de **ConquerBlocksX**.
 - **Habilidades**: Python, HTML, CSS, Git/GitHub, diseño gráfico y 3D.
