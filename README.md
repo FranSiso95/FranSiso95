@@ -55,4 +55,6 @@
 ---
 
 ¡Gracias por visitar mi perfil! Si te interesa colaborar en proyectos o simplemente compartir conocimientos, no dudes en contactarme. ¡Estoy siempre abierto a nuevas oportunidades y desafíos!
-![c99c98936a66370a09589509ca274001](https://github.com/user-attachments/assets/254c2dc8-1829-4e92-baeb-fb70f94ce0b6)
+
+
+  ![c99c98936a66370a09589509ca274001](https://github.com/user-attachments/assets/254c2dc8-1829-4e92-baeb-fb70f94ce0b6)
