@@ -19,13 +19,15 @@
 
 ---
 
-<!--Languages and Tools Section-->       
+<<!-- Languages and Tools Section -->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css  />
-</p>
-<br />
 
+<p align="center">
+  <img width="500" 
+       src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
+</p>
+
+<br />
 
 ---
 # 📊 GitHub Stats:
